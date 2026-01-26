@@ -1,6 +1,11 @@
 venv/
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 cron.log
 build/
 .DS_Store
+=======
+__psycache__/
+*.pyc
+>>>>>>> f55e9fd (Updates and new computers)
