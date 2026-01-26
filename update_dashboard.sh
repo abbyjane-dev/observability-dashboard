@@ -17,7 +17,7 @@ source venv/bin/activate
 
 # Generate the dashboard
 <<<<<<< HEAD
-/Users/abby/Projects/dashboard/venv/bin/python3 /Users/abby/Projects/dashboard/generate_dashboard.py
+/Users/abby/Projects/observability/venv/bin/python3 /Users/abby/Projects/observability/generate_dashboard.py
 =======
 /home/abby/Projects/observability/venv/bin/python3 /home/abby/Projects/observability/generate_dashboard.py
 >>>>>>> f55e9fd (Updates and new computers)
