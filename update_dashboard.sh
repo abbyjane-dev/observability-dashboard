@@ -16,11 +16,7 @@ git pull --rebase origin main
 source venv/bin/activate
 
 # Generate the dashboard
-<<<<<<< HEAD
-/Users/abby/Projects/observability/venv/bin/python3 /Users/abby/Projects/observability/generate_dashboard.py
-=======
-/home/abby/Projects/observability/venv/bin/python3 /home/abby/Projects/observability/generate_dashboard.py
->>>>>>> f55e9fd (Updates and new computers)
+/Users/abby/Projects/observability/venv/bin/python generate_dashboard.py
 
 # Stage changes if any
 git add index.html
